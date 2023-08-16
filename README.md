@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🔭 I'm currently working on CheckDrive, a flutter app in the Play Store. (Private)
+- 🌱 I’m currently learning Flutter. (Hobby)
+- 💬 Ask me about technology.
+- 📫 How to reach me: clebertsfigueiredo@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: At about 14 I wanted to create something similar to Google and Facebook. 🤣
+
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 
 <!--
 **byClebert/byClebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
